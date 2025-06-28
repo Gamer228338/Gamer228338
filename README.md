@@ -12,7 +12,7 @@ My code consists almost entirely of AI
 [Bot Yandereotg v1](https://t.me/scarletminecraft_bot)
 
 <iframe 
-  src="https://musicnights.serv00.net/designs/EvT%20(Pulsma)/widget-embed.html" 
+  src="https://musicnights.serv00.net/designs/EvT%20(Pulsma)/widget-compact.html" 
   width="320" 
   height="50" 
   frameborder="0" 

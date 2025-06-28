@@ -11,11 +11,13 @@ My code consists almost entirely of AI
 
 [Bot Yandereotg v1](https://t.me/scarletminecraft_bot)
 
-<iframe 
-  src="https://musicnights.serv00.net/designs/EvT%20(Pulsma)/widget-compact.html" 
-  width="320" 
-  height="50" 
-  frameborder="0" 
-  scrolling="no"
-  style="border: none; background: transparent;">
-</iframe>
+<div style="width: 320px; height: 50px; margin: 20px auto;">
+  <iframe 
+    src=https://musicnights.serv00.net/designs/EvT%20(Pulsma)/widget-compact.html" 
+    width="100%" 
+    height="100%" 
+    frameborder="0" 
+    scrolling="no"
+    style="border: none; background: transparent;">
+  </iframe>
+</div>
